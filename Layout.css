@@ -1,0 +1,31 @@
+.Empty1{
+			background-color: lightpink;
+			height: 5vh;
+			width: 100%;
+			margin-bottom: 3vh;
+		}
+		.Empty2{
+			background-color: lightpink;
+			height: 15vh;
+			width: 100%;3
+		}
+		
+		.flex-container{
+			display: flex;
+			width: 100%;
+			justify-content: space-between;
+			
+		}
+		.flex-container div{
+			background-color: lightpink;
+			height: 30vh;
+			width: 30%;
+			margin-top: 5vh;
+
+		}
+		.Empty4{
+			background-color: lightpink;
+			height: 10vh;
+			margin-top: 5vh;
+			width: 100%;
+		}
